@@ -1,0 +1,8 @@
+==================== 03/26/2024 19:36:28 ====================
+
+locations > biomes :
+hills
+
+names > location names > region names :
+Fractured X
+
